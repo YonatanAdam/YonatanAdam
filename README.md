@@ -1,4 +1,4 @@
-- @YonatanAdam 🐋
+- @YonatanAdam 🐋🦀
   Recreational programming 🇮🇱
 
 <!---
